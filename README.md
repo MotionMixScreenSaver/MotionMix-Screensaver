@@ -66,7 +66,7 @@ MotionMix is free to use.
 
 If you find it useful and want to support further development, you can pay whatever you think it is worth.
 
-**Support link coming soon.**
+[💚 Support MotionMix on Ko-fi](https://ko-fi.com/motionmix)
 
 ## Feedback
 
