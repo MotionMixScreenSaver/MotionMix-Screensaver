@@ -58,7 +58,9 @@ The installer does not require administrator privileges.
 
 ## Screenshots
 
-Screenshots coming soon.
+<img width="774" height="634" alt="image" src="https://github.com/user-attachments/assets/572ff243-e68d-40ca-8ff9-4047f6c5290d" />
+<img width="773" height="630" alt="image" src="https://github.com/user-attachments/assets/d665528d-45dd-4b0c-b8ef-f10d89b29368" />
+
 
 ## Support MotionMix
 
